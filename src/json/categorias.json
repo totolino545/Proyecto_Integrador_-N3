@@ -1,0 +1,10 @@
+[
+	{
+		"Id": 1,
+		"categoria": "Serie"
+	},
+	{
+		"Id": 2,
+		"categoria": "Película"
+	}
+]

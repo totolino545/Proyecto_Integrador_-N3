@@ -1,0 +1,86 @@
+[
+	{
+		"Id": 1,
+		"genero": "Ciencia Ficción"
+	},
+	{
+		"Id": 2,
+		"genero": "Fantasía"
+	},
+	{
+		"Id": 3,
+		"genero": "Drama"
+	},
+	{
+		"Id": 4,
+		"genero": "Ficción"
+	},
+	{
+		"Id": 5,
+		"genero": "Sucesos"
+	},
+	{
+		"Id": 6,
+		"genero": "Misterio"
+	},
+	{
+		"Id": 7,
+		"genero": "Hechos verídicos"
+	},
+	{
+		"Id": 8,
+		"genero": "Crimen"
+	},
+	{
+		"Id": 9,
+		"genero": "Suspenso"
+	},
+	{
+		"Id": 10,
+		"genero": "Aventura"
+	},
+	{
+		"Id": 11,
+		"genero": "Sci-Fi"
+	},
+	{
+		"Id": 12,
+		"genero": "Acción"
+	},
+	{
+		"Id": 13,
+		"genero": "Comedia"
+	},
+	{
+		"Id": 14,
+		"genero": "Familia"
+	},
+	{
+		"Id": 15,
+		"genero": "Western"
+	},
+	{
+		"Id": 16,
+		"genero": "Tecnología"
+	},
+	{
+		"Id": 17,
+		"genero": "Terror"
+	},
+	{
+		"Id": 18,
+		"genero": "Historia"
+	},
+	{
+		"Id": 19,
+		"genero": "Intriga"
+	},
+	{
+		"Id": 20,
+		"genero": "¿Ficción?"
+	},
+	{
+		"Id": 21,
+		"genero": "Hechos veríficos"
+	}
+]
